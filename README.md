@@ -1,3 +1,3 @@
 # odin-recipes
 My first project
-Showing my basic html skill's, later i will add CSS styling
+Simple webpage made during course on the Odin Project.
